@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T20:38:08.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="vgNUHDn4_vcal0ru3NGM" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T20:59:47.385Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Gar5iLvuVo4DsVtUHUYE" version="16.6.4" type="github">
   <diagram id="HjKQxw_lcI1jQBff_Cyb" name="Page-1">
     <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,12 @@
         </mxCell>
         <mxCell id="1DA_gyhgdTT1aUiBiCnl-20" value="SmartIoT Application JAR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="350" y="480" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1DA_gyhgdTT1aUiBiCnl-21" value="Processed Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="625" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1DA_gyhgdTT1aUiBiCnl-22" value="Send configuration and aggregation definition.&amp;nbsp;&lt;br&gt;Receive the output results based on the definition/configuration" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="130" width="380" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
